@@ -1,0 +1,23 @@
+body {
+    background-color:#2e2e2e;
+    border:dashed rgb(101, 112, 126);
+}
+div {
+    background-color:rgb(218, 171, 178);
+    color:rgb(65, 90, 136);
+    text-align:center;
+    width:80%;
+    margin: 35px auto;
+    max-width:500px;
+    border:10px ridge rgb(159, 140, 140);
+}
+.disclaimer {
+    font-size:12px;
+    margin-top:-15px;
+
+}
+h1 {
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+
+}
+    
